@@ -1,0 +1,6 @@
+# Fix the code below
+print(0.00) print(2130805) print(4.5)
+
+print(0.00)
+print(2130805) 
+print(4.5)
