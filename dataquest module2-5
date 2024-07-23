@@ -1,0 +1,8 @@
+rating_count_totals = 698516
+fruit_ninja_totals = 1.99
+print(rating_count_totals)
+print(fruit_ninja_totals)
+rating_count_totals += 522012
+fruit_ninja_totals *= 4
+print(rating_count_totals)
+print(fruit_ninja_totals)
