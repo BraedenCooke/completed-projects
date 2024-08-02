@@ -1,0 +1,3 @@
+slogan = 'Meta\'s AI slogan is "Explore. Create. Do More."'
+
+print(slogan)
