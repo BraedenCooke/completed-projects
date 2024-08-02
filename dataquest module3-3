@@ -1,0 +1,5 @@
+app_name = "Minecraft: Pocket Edition"
+average_rating = "4.5"
+total_ratings = "522012"
+
+print(app_name)
