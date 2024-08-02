@@ -1,0 +1,3 @@
+example = '''Facebook's parent company, Meta, created numerous AI chatbots with 'unique personalities'.'
+Meta's AI slogan is "Explore. Create. Do More."'''
+print(example)
